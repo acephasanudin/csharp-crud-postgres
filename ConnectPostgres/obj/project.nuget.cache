@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6dTXKmiho7dijpyWkeQL2OouhXORuzlcdwI9a8sT/EmidzYIUsLNcO64pxGZSk9iGlDR1n87V+DyFqkioijFxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acep\\source\\repos\\ConnectPostgres\\ConnectPostgres\\ConnectPostgres.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acep\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Acep\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Acep\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
